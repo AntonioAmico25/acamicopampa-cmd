@@ -1,0 +1,25 @@
+# Node
+node_modules/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Test output
+coverage/
+
+# Database artifacts
+*.sqlite3
